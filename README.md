@@ -1,2 +1,1 @@
-"# COMPPEC-Screens" 
-![screen 1](Screenshot_20160903-002653.png)
+![screen 1](Screenshot_20160903-002653.png width=100)
